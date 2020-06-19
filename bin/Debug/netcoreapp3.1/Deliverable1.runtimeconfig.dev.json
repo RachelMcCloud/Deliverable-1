@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Teknautik\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Teknautik\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+C:\Rachel\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.exe
+C:\Rachel\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.deps.json
+C:\Rachel\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.runtimeconfig.json
+C:\Rachel\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.runtimeconfig.dev.json
+C:\Rachel\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.dll
+C:\Rachel\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.pdb
+C:\Rachel\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.csprojAssemblyReference.cache
+C:\Rachel\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.AssemblyInfoInputs.cache
+C:\Rachel\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.AssemblyInfo.cs
+C:\Rachel\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.csproj.CoreCompileInputs.cache
+C:\Rachel\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.dll
+C:\Rachel\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.pdb
+C:\Rachel\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.genruntimeconfig.cache
